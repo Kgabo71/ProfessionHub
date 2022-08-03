@@ -3,6 +3,10 @@
 	border-color:#313461;
 }
 
+.myDiv{
+background:#F6F6F6;
+}
+
 .jumbotron{
 	background: #333 url('../img/richfield06.jpg') -400px -200px;
 	color:#fff;
