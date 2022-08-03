@@ -4,7 +4,11 @@
 }
 
 .lead{
-background:#C0C0C0;
+background-color:rgba(255, 255, 255, 0.5);;
+}
+
+.lead{
+opacity: 0.5;
 }
 
 .jumbotron{
