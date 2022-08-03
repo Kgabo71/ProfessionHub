@@ -4,12 +4,10 @@
 }
 
 .lead{
-background-color:rgba(255, 255, 255, 0.5);;
+background-color:rgba(255, 255, 255, 0.5);
+background-opacity: 0.5;
 }
 
-.lead{
-opacity: 0.5;
-}
 
 .jumbotron{
 	background: #333 url('../img/richfield06.jpg') -400px -200px;
