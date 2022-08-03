@@ -11,6 +11,14 @@ background-color:rgba(255, 255, 255, 0.7);
 background-color: #7DCE13;
 }
 
+.ps{
+background-color: #1C3879;
+}
+
+.mag {
+background-color: #1363DF;
+}
+
 .jumbotron{
 	background: #333 url('../img/richfield06.jpg') -400px -200px;
 	text-align: center;
