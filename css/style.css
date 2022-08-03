@@ -9,12 +9,12 @@ background-color:rgba(255, 255, 255, 0.7);
 
 
 .jumbotron{
-	background: #333 url('../img/richfield06.jpg') -400px -200px;
+	background: #333 url('../img/richfield06.jpg') -400px -200px  filter: blur(8px);
+  -webkit-filter: blur(8px);
 	color:#fff;
 	text-align: center;
 	border-bottom: 5px #f4f4f4 solid;
-	 filter: blur(8px);
-  -webkit-filter: blur(8px);
+	
 }
 
 .jumbotron-main{
