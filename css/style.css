@@ -9,10 +9,11 @@ background-color:rgba(255, 255, 255, 0.7);
 
 .mental{
 background-color: #7DCE13;
+border-color: #7DCE13;
 }
 
 .ps{
-background-color: #1C3879;
+background-color: #1363DF;
 }
 
 .mag {
@@ -69,7 +70,7 @@ background-color: #1363DF;
 }
 
 .section-a{
-	background:#313461;
+	background:#1363DF;
 	color:#fff;
 	text-align: center;
 	padding:50px;
