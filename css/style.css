@@ -55,7 +55,7 @@ background-color:
 }
 
 .navbar a:hover{
-	background:none !important;
+	background:#100F0F;
 	border-bottom:#fff 3px solid;
 	margin-bottom:0;
 }
