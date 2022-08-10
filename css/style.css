@@ -49,9 +49,12 @@ background-color:
 	color:#1363DF;
 	padding: 0;
 }
+.navbar-brand{
+color: #fff;
+}
 
 .navbar a{
-	color:#1363DF;
+	color:#fff;
 	margin-bottom:3px;
 }
 
