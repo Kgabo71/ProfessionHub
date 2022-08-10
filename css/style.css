@@ -93,3 +93,7 @@ background-color:
 	font-size:20;
 }
 
+.col-md-3 {
+display: block;
+}
+
