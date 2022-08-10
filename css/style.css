@@ -89,15 +89,6 @@ font-size: 40px;
 	font-size:20;
 }
 
-.row .panel {
-	    top: 50%;
-	    left: 50%;
-}
-
-.col-md-3 {
-display: block;
-}
-
 .body{
 text-align: center;
 }
