@@ -80,8 +80,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email:** your-email@example.com
-- **GitHub:** Kgabo71(https://github.com/Kgabo71)
+- **Email:  tsirikgabo793@gmail.com
+- **GitHub: Kgabo71(https://github.com/Kgabo71)
 
 ---
 
